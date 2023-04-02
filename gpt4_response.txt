@@ -1,0 +1,18 @@
+__begin__
+```mermaid
+graph LR
+A[Person] --> B[Checks ingredients]
+B --> C[Has eggs, cheese, and vegetables?]
+C --> |Yes| D[Gathers ingredients]
+C --> |No| E[Acquires missing ingredients]
+E --> D
+D --> F[Prepares ingredients]
+F --> G[Cooks eggs in a pan]
+G --> H[Adds other ingredients]
+H --> J[Folds the omelette]
+J --> K[Cooks until desired doneness]
+K --> L[Serves the omelette]
+```
+__end__
+
+This mermaid.js code represents a high-level overview of the process of cooking an omelette. The process starts with a person checking the ingredients, and if the necessary ingredients (eggs, cheese, and vegetables) are available, they gather them. In case any ingredient is missing, it needs to be acquired first. Then, the person prepares the ingredients, cooks the eggs in a pan, adds the other ingredients, and folds the omelette. The cooking continues until it reaches the desired doneness, and finally, the omelette is served.

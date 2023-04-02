@@ -1,0 +1,37 @@
+{
+	"type": "package",
+	"handle": "ahm-rimer-text-to-diag-gpt",
+	"version": "0.0.2",
+	"description": "",
+	"author": "ahm-rimer",
+	"entrypoint": "Unused",
+	"public": false,
+	"plugin": null,
+	"build_config": {
+		"ignore": [
+			"tests",
+			"examples"
+		]
+	},
+	"configTemplate": {},
+	"steamshipRegistry": {
+		"tagline": null,
+		"tagline2": null,
+		"usefulFor": null,
+		"videoUrl": null,
+		"githubUrl": null,
+		"demoUrl": null,
+		"blogUrl": null,
+		"jupyterUrl": null,
+		"authorGithub": null,
+		"authorName": "ahm-rimer",
+		"authorEmail": null,
+		"authorTwitter": null,
+		"authorUrl": null,
+		"tags": [
+			"gpt",
+			"text",
+			"diagram"
+		]
+	}
+}

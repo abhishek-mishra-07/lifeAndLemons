@@ -1,0 +1,2 @@
+steamship==2.14.2
+termcolor
